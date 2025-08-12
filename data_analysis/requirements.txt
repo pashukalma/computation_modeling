@@ -1,0 +1,7 @@
+%%writefile requirements.txt
+pandas
+matplotlib
+seaborn
+nltk
+transformers
+torch

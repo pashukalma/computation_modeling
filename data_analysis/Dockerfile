@@ -14,6 +14,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # You can add a command here to run your script or notebook, for example:
-# CMD ["python", "your_script_name.py"]
+# CMD ["python", "metrics_driven_main.py"]
 # Or if you are using a Jupyter notebook:
 # CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]

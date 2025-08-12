@@ -1,7 +1,4 @@
 ''' 
-Original file is located at
-    https://colab.research.google.com/drive/1-JXjZgf3wp3i0q2sPvAzU59v2jnlw4Kv
-
 Apply BERT classification on the combined text of media_caption and comment_text to categorize the content.
 '''
 
